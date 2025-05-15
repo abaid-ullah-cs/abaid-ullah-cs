@@ -1,27 +1,23 @@
 <h1 align="center">Hi 👋, I'm Experienced Senior Full Stack Developer</h1>
 <h3 align="center">Experienced Senior React Developer with a decade in React, Next.js, TypeScript, and Material UI for dynamic web applications. Proficient in Node.js, Java, Django/Python for back-end, AI integration, and databases like PostgreSQL, MySQL. Specialized in E-commerce, Health & Science, Automobile, and more. Completed 1000+ applications. Available for flexible engagements. Let's discuss collaboration</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meanmernapp&label=Profile%20views&color=0e75b6&style=flat" alt="meanmernapp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meanmernapp" alt="meanmernapp" /></a> </p>
 
-- 🔭 I’m currently working as a [Senior software Engineer on Upwork](https://profile.cybernef.com/)
+- 🔭 I’m currently working as a [Senior software Engineer on Upwork](https://profile.abaidbutt.com/)
 
 - 🌱 I’m currently learning **Python, Data science**
 
-- 👯 I’m looking to collaborate on [Booking Software for Tattoo Artists & Studios.](https://www.hypertattoo.com/)
+- 👯 I’m looking to collaborate on [Software for LLMs & Data Science Projects.](https://www.hypertattoo.com/)
 
-- 👨‍💻 All of my projects are available at [https://profile.cybernef.com/, https://www.behance.net/sherazhassan0055, https://profile.cybernef.com/, https://www.behance.net/sherazhassan0055](https://profile.cybernef.com/, https://www.behance.net/sherazhassan0055, https://profile.cybernef.com/, https://www.behance.net/sherazhassan0055)
 
 - 💬 Ask me about **React Next Html css Node express Aws ECS**
 
-- 📫 How to reach me **shearzhassan6379@gmail.com**
+- 📫 How to reach me **abaidullahbuttcs@gmail.com**
 
-- 📄 Know about my experiences [https://www.behance.net/sherazhassan0055](https://www.behance.net/sherazhassan0055)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sherazdevelopment" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sherazdevelopment" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abaidbutt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abaiddevelopment" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
